@@ -1,0 +1,8 @@
+C:\Users\bonam\OneDrive\Desktop\Basicapp\AssistedProject\Section8-bubblesort\Section8-bubblesort\bin\Debug\Section8-bubblesort.exe.config
+C:\Users\bonam\OneDrive\Desktop\Basicapp\AssistedProject\Section8-bubblesort\Section8-bubblesort\bin\Debug\Section8-bubblesort.exe
+C:\Users\bonam\OneDrive\Desktop\Basicapp\AssistedProject\Section8-bubblesort\Section8-bubblesort\bin\Debug\Section8-bubblesort.pdb
+C:\Users\bonam\OneDrive\Desktop\Basicapp\AssistedProject\Section8-bubblesort\Section8-bubblesort\obj\Debug\Section8-bubblesort.csproj.AssemblyReference.cache
+C:\Users\bonam\OneDrive\Desktop\Basicapp\AssistedProject\Section8-bubblesort\Section8-bubblesort\obj\Debug\Section8-bubblesort.csproj.SuggestedBindingRedirects.cache
+C:\Users\bonam\OneDrive\Desktop\Basicapp\AssistedProject\Section8-bubblesort\Section8-bubblesort\obj\Debug\Section8-bubblesort.csproj.CoreCompileInputs.cache
+C:\Users\bonam\OneDrive\Desktop\Basicapp\AssistedProject\Section8-bubblesort\Section8-bubblesort\obj\Debug\Section8-bubblesort.exe
+C:\Users\bonam\OneDrive\Desktop\Basicapp\AssistedProject\Section8-bubblesort\Section8-bubblesort\obj\Debug\Section8-bubblesort.pdb
